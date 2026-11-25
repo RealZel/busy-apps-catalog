@@ -1,0 +1,22 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/RealZel/PremiereBar.git
+    commit_sha: e638963fe821bba59da2edd0cb80ad39002fb42e
+category: social
+short_description: A pixel-art cinema that fills as your YouTube videos reach their view goal.
+description: |
+  Premiere Bar turns the front display into a 20-seat cinema for your YouTube videos. Select a video with the wheel, watch the curtains open, and see seats light up as it approaches your view goal. A full hall ends with a brief burst of sparks.
+
+  The rear display shows the video title, views, change over roughly one hour, and the public subscriber count. Demo mode comes with three sample videos. In live mode, use your own YouTube Data API key and choose a channel and view goal in Setup.
+
+  [Privacy notice](https://github.com/RealZel/PremiereBar/blob/e638963fe821bba59da2edd0cb80ad39002fb42e/PRIVACY.md).
+changelog: |
+  Initial release with a 20-seat cinema, animated curtains, configurable view goals, YouTube statistics, and three demo videos.
+screenshots:
+  - screenshots/partly-filled.png
+  - screenshots/curtain-opening.png
+  - screenshots/early-views.png
+  - screenshots/sold-out.png
+back_screenshots:
+  - screenshots/dashboard.png
