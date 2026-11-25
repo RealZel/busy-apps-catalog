@@ -1,0 +1,28 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/RealZel/BusyRoad.git
+    commit_sha: 7e45e83c0d2f34f40e3bccd30e15e746dd898014
+category: art
+short_description: A pixel-art drive with live local weather, day and night, and a windshield wiper.
+description: |
+  BusyRoad turns the front display into a first-person drive that follows the weather in your city.
+  Rain, snow, dust, leaves, and bugs collect on the windshield. Press Start to run the wiper or set an automatic interval.
+  At night, headlights and streetlights illuminate the road. Thunderstorms add lightning.
+
+  Turn the wheel to choose from 14 demo scenes. Hold OK to switch between day and night, or press OK to return to live weather.
+  The rear display shows the weather, the windshield's condition, and the temperature in Celsius or Fahrenheit.
+
+  Weather data from [Open-Meteo](https://open-meteo.com/).
+  [Privacy notice](https://github.com/RealZel/BusyRoad/blob/7e45e83c0d2f34f40e3bccd30e15e746dd898014/PRIVACY.md).
+changelog: |
+  Initial release with live local weather, 14 day and night demo scenes, manual and automatic wipers, and Celsius or Fahrenheit.
+screenshots:
+  - screenshots/storm.png
+  - screenshots/leaves.png
+  - screenshots/snow.png
+  - screenshots/night.png
+  - screenshots/sun.png
+  - screenshots/wipers.png
+back_screenshots:
+  - screenshots/dashboard.png
