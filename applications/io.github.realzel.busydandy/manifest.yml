@@ -1,0 +1,22 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/RealZel/BusyDandy.git
+    commit_sha: 4b12990cb854f7120432e2c6fafd3b7b41003d99
+category: art
+short_description: Six original 8-bit arcade shorts for BUSY Bar, with wheel selection and a looping reel.
+description: |
+  BusyDandy brings six original pixel-art shorts to the 72 × 16 display. Follow a courier across sunset rooftops, watch a tank duel in the desert, fly through a meteor swarm, race into a neon tunnel, dive to a seafloor signal, and light up a circuit maze.
+
+  Turn the wheel to choose a scene, press Start to replay it, or press OK to run the whole reel. The rear display shows the scene and its playback progress. BusyDandy runs offline.
+changelog: |
+  Initial release with six original scenes, manual replay, and an automatic reel.
+screenshots:
+  - screenshots/sky.png
+  - screenshots/steel.png
+  - screenshots/space.png
+  - screenshots/neon.png
+  - screenshots/reef.png
+  - screenshots/signal.png
+back_screenshots:
+  - screenshots/dashboard.png
