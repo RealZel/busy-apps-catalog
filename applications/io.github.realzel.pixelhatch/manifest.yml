@@ -1,0 +1,28 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/RealZel/PixelHatch.git
+    commit_sha: d5d2f4773232dec6953647eb3eb445a24dee0635
+category: games
+short_description: Drop pixels into eight silhouettes and bring them to life.
+description: |
+  Press Start to drop one pixel into a silhouette. Pixels fill the shape from the bottom up, and the last landing starts its animation.
+
+  The heart beats, the piggy bank gallops, popcorn scatters, the spaceship lifts off and leaves a crater, and the car fills up and drives away. You can also wake a ghost, set a jellyfish swimming, or open a flower.
+
+  Turn the wheel to switch shapes and press OK to reset the current one. The rear display shows how many pixels have landed. Each shape keeps its progress during the session. Pixel Hatch runs offline.
+changelog: |
+  Initial release with eight pixel-art silhouettes, falling pixels, and a different animation for every completed shape.
+screenshots:
+  - screenshots/scenes/heart-alive.png
+  - screenshots/falling-pixel.png
+  - screenshots/scenes/pig-alive.png
+  - screenshots/scenes/popcorn-alive.png
+  - screenshots/scenes/rocket-alive.png
+  - screenshots/crater.png
+  - screenshots/scenes/car-alive.png
+  - screenshots/scenes/ghost-alive.png
+  - screenshots/scenes/jelly-alive.png
+  - screenshots/scenes/flower-alive.png
+back_screenshots:
+  - screenshots/dashboard.png
